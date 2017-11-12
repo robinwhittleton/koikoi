@@ -1,0 +1,62 @@
+# Koikoi
+
+## Attribution
+
+Original Hanafuda cards from Wikimedia Commons (authored by user [A2569875](https://commons.wikimedia.org/wiki/User:A2569875) under either Creative Commons [Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en) or [GPL v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) licences).
+
+- [Card 1-1](https://commons.wikimedia.org/wiki/File:Hanafuda_1-1.svg"), GPL v2.0
+- [Card 1-2](https://commons.wikimedia.org/wiki/File:Hanafuda_1-2.svg"), GPL v2.0
+- [Card 1-3](https://commons.wikimedia.org/wiki/File:Hanafuda_1-3.svg"), GPL v2.0
+- [Card 1-4](https://commons.wikimedia.org/wiki/File:Hanafuda_1-4.svg"), GPL v2.0
+- [Card 2-1](https://commons.wikimedia.org/wiki/File:Hanafuda_2-1.svg"), GPL v2.0
+- [Card 2-2](https://commons.wikimedia.org/wiki/File:Hanafuda_2-2.svg"), GPL v2.0
+- [Card 2-3](https://commons.wikimedia.org/wiki/File:Hanafuda_2-3.svg"), GPL v2.0
+- [Card 2-4](https://commons.wikimedia.org/wiki/File:Hanafuda_2-4.svg"), GPL v2.0
+- [Card 3-1](https://commons.wikimedia.org/wiki/File:Hanafuda_3-1.svg"), GPL v2.0
+- [Card 3-2](https://commons.wikimedia.org/wiki/File:Hanafuda_3-2.svg"), GPL v2.0
+- [Card 3-3](https://commons.wikimedia.org/wiki/File:Hanafuda_3-3.svg"), GPL v2.0
+- [Card 3-4](https://commons.wikimedia.org/wiki/File:Hanafuda_3-4.svg"), GPL v2.0
+- [Card 4-1](https://commons.wikimedia.org/wiki/File:Hanafuda_4-1.svg"), GPL v2.0
+- [Card 4-2](https://commons.wikimedia.org/wiki/File:Hanafuda_4-2.svg"), GPL v2.0
+- [Card 4-3](https://commons.wikimedia.org/wiki/File:Hanafuda_4-3.svg"), GPL v2.0
+- [Card 4-4](https://commons.wikimedia.org/wiki/File:Hanafuda_4-4.svg"), GPL v2.0
+- [Card 5-1](https://commons.wikimedia.org/wiki/File:Hanafuda_5-1.svg"), GPL v2.0
+- [Card 5-2](https://commons.wikimedia.org/wiki/File:Hanafuda_5-2.svg"), GPL v2.0
+- [Card 5-3](https://commons.wikimedia.org/wiki/File:Hanafuda_5-3.svg"), GPL v2.0
+- [Card 5-4](https://commons.wikimedia.org/wiki/File:Hanafuda_5-4.svg"), GPL v2.0
+- [Card 6-1](https://commons.wikimedia.org/wiki/File:Hanafuda_6-1.svg"), GPL v2.0
+- [Card 6-2](https://commons.wikimedia.org/wiki/File:Hanafuda_6-2.svg"), GPL v2.0
+- [Card 6-3](https://commons.wikimedia.org/wiki/File:Hanafuda_6-3.svg"), GPL v2.0
+- [Card 6-4](https://commons.wikimedia.org/wiki/File:Hanafuda_6-4.svg"), GPL v2.0
+- [Card 7-1](https://commons.wikimedia.org/wiki/File:Hanafuda_7-1.svg"), GPL v2.0
+- [Card 7-2](https://commons.wikimedia.org/wiki/File:Hanafuda_7-2.svg"), GPL v2.0
+- [Card 7-3](https://commons.wikimedia.org/wiki/File:Hanafuda_7-3.svg"), GPL v2.0
+- [Card 7-4](https://commons.wikimedia.org/wiki/File:Hanafuda_7-4.svg"), GPL v2.0
+- [Card 8-1](https://commons.wikimedia.org/wiki/File:Hanafuda_8-1.svg"), GPL v2.0
+- [Card 8-2](https://commons.wikimedia.org/wiki/File:Hanafuda_8-2.svg"), GPL v2.0
+- [Card 8-3](https://commons.wikimedia.org/wiki/File:Hanafuda_8-3.svg"), GPL v2.0
+- [Card 8-4](https://commons.wikimedia.org/wiki/File:Hanafuda_8-4.svg"), GPL v2.0
+- [Card 9-1](https://commons.wikimedia.org/wiki/File:Hanafuda_9-1.svg"), GPL v2.0
+- [Card 9-2](https://commons.wikimedia.org/wiki/File:Hanafuda_9-2.svg"), GPL v2.0
+- [Card 9-3](https://commons.wikimedia.org/wiki/File:Hanafuda_9-3.svg"), GPL v2.0
+- [Card 9-4](https://commons.wikimedia.org/wiki/File:Hanafuda_9-4.svg"), GPL v2.0
+- [Card 10-1](https://commons.wikimedia.org/wiki/File:Hanafuda_10-1.svg"), GPL v2.0
+- [Card 10-2](https://commons.wikimedia.org/wiki/File:Hanafuda_10-2.svg"), GPL v2.0
+- [Card 10-3](https://commons.wikimedia.org/wiki/File:Hanafuda_10-3.svg"), GPL v2.0
+- [Card 10-4](https://commons.wikimedia.org/wiki/File:Hanafuda_10-4.svg"), GPL v2.0
+- [Card 11-1](https://commons.wikimedia.org/wiki/File:Hanafuda_11-1.svg"), GPL v2.0
+- [Card 11-2](https://commons.wikimedia.org/wiki/File:Hanafuda_11-2.svg"), GPL v2.0
+- [Card 11-3](https://commons.wikimedia.org/wiki/File:Hanafuda_11-3.svg"), GPL v2.0
+- [Card 11-4](https://commons.wikimedia.org/wiki/File:Hanafuda_11-4.svg"), GPL v2.0
+- [Card 12-1](https://commons.wikimedia.org/wiki/File:Hanafuda_12-1.svg"), GPL v2.0
+- [Card 12-2](https://commons.wikimedia.org/wiki/File:Hanafuda_12-2.svg"), GPL v2.0
+- [Card 12-3](https://commons.wikimedia.org/wiki/File:Hanafuda_12-3.svg"), GPL v2.0
+- [Card 12-4](https://commons.wikimedia.org/wiki/File:Hanafuda_12-4.svg"), GPL v2.0
+- [Card 13-1](https://commons.wikimedia.org/wiki/File:Hanafuda_13-1.svg"), CC Attribution-Share Alike 4.0 International
+- [Card 13-2](https://commons.wikimedia.org/wiki/File:Hanafuda_13-2.svg"), CC Attribution-Share Alike 4.0 International
+- [Card 13-3](https://commons.wikimedia.org/wiki/File:Hanafuda_13-3.svg"), CC Attribution-Share Alike 4.0 International
+- [Card 13-4](https://commons.wikimedia.org/wiki/File:Hanafuda_13-4.svg"), CC Attribution-Share Alike 4.0 International
+- [Card 14-1](https://commons.wikimedia.org/wiki/File:Hanafuda_14-1.svg"), CC Attribution-Share Alike 4.0 International
+- [Card 14-2](https://commons.wikimedia.org/wiki/File:Hanafuda_14-2.svg"), CC Attribution-Share Alike 4.0 International
+- [Card 14-3](https://commons.wikimedia.org/wiki/File:Hanafuda_14-3.svg"), CC Attribution-Share Alike 4.0 International
+- [Card 14-4](https://commons.wikimedia.org/wiki/File:Hanafuda_14-4.svg"), CC Attribution-Share Alike 4.0 International

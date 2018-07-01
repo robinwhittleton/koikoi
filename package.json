@@ -16,5 +16,7 @@
     "url": "https://github.com/robinwhittleton/koikoi/issues"
   },
   "homepage": "https://github.com/robinwhittleton/koikoi#readme",
-  "devDependencies": {}
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
 }

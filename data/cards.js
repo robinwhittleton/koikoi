@@ -1,4 +1,4 @@
-[
+export default [
 	{
 		"month": 1,
 		"index": 1,

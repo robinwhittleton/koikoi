@@ -1,4 +1,3 @@
-import cards from 'lib/cards'
-import 'lib/koikoi'
+import Koikoi from './lib/koikoi.js'
 
-let koikoi = new KoiKoi(cards());
+let koikoi = new Koikoi();

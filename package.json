@@ -19,6 +19,6 @@
   "homepage": "https://github.com/robinwhittleton/koikoi#readme",
   "dependencies": {},
   "devDependencies": {
-    "jest": "^25.1.0"
+    "jest": "^27.0.6"
   }
 }
